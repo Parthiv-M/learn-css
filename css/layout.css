@@ -66,4 +66,8 @@ body {
   .column.side, .column.middle {
     width: 100%;
   }
+  tr {
+    display: flex;
+    flex-direction: column;
+  }
 }
